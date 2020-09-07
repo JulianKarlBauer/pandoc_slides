@@ -1,1 +1,1 @@
-# pandoc_slides
+# Create simple slides from Markdown using Pandoc
